@@ -1,4 +1,4 @@
-#figma photogallery :
+figma photogallery:
 
 
 demo design link:
